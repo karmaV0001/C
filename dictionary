@@ -1,0 +1,3 @@
+a = {'tony': 'Ironamn'}
+print(a)
+print(type(a))
